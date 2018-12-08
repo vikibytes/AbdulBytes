@@ -27,10 +27,10 @@ rows_limit = 5000
 from tkinter import messagebox
 
 # MS SQL server configuration
-server = 'JIOGENSQLDB01'
-base = 'ListDB'
-user = 'Genesys_Report'
-password = 'Genesys@1234'
+server = 'server'
+base = 'base'
+user = 'user'
+password = 'password'
 
 
 app = Flask(__name__)
